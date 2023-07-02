@@ -11,7 +11,9 @@ I am an aspiring developer, completed the Fullstack developer course for 12 mont
 * 🧠  I'm learning Full Stack Developer
 * 🤝  I'm open to collaborating on Interesting projects
 
-### Skills
+---
+
+### 💻 Skills
 
 
 <p align="left">
@@ -35,12 +37,15 @@ I am an aspiring developer, completed the Fullstack developer course for 12 mont
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+---
 
-### Socials
+### 🤝 Socials
 
 <p align="left"> <a href="https://codesandbox.io/u/Mythos M" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.github.com/MythosOne" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/victor-avramidi-frontend-developer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+---
+
+### 📊 Stats
 
 <b>My GitHub Stats</b>
 
